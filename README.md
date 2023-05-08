@@ -9,3 +9,10 @@ You can view a live demo of the website [DEMO LINK](https://oksanabaloh.github.i
  - BEM
  - JavaScript
  - mobile-first
+
+## Installation and Usage
+
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Run the development server: `npm start`
+4. Open http://localhost:3000 in a browser.
